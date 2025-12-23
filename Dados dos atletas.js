@@ -104,9 +104,9 @@ class Atleta {
  atleta.obtemImc();
  atleta.obtemMediaValida();
  
- atleta = new Atleta("João Pedro",
-   15, 60, 1.80,
-   [10, 8, 9.60, 8.50, 10]);
+ atleta = new Atleta("Marcos Levi",
+   23, 54, 1.70,
+   [10, 10, 8.90, 7.90, 10]);
  
  atleta.calculaCategoria();
  atleta.calculaIMC();
@@ -118,4 +118,5 @@ class Atleta {
  atleta.obtemNotasAtletas();
  atleta.obtemCategoria();
  atleta.obtemImc();
+
  atleta.obtemMediaValida(); 
