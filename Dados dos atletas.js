@@ -118,5 +118,5 @@ class Atleta {
  atleta.obtemNotasAtletas();
  atleta.obtemCategoria();
  atleta.obtemImc();
-
  atleta.obtemMediaValida(); 
+
